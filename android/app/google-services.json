@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "207746633389",
+    "project_id": "chatmore-4ec26",
+    "storage_bucket": "chatmore-4ec26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207746633389:android:16317141b248dfbdd1c024",
+        "android_client_info": {
+          "package_name": "com.example.chat_more"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaXrodbpknC1pLHzFC4EzFoy6OnRVekNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
